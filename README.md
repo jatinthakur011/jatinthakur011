@@ -72,8 +72,8 @@ fun_fact: "I debug in production... just kidding. Maybe."
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jatinthakur011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinthakur011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jatinthakur011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" /> -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinthakur011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" /> -->
 </div>
 
 <div align="center">
