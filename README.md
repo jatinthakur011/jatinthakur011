@@ -39,7 +39,7 @@
 │  email       : jatuthakur170@gmail.com                          │
 │                                                                 │
 │  currently_learning:                                            │
-│    - ⚙️  Terraform  # Infrastructure as Code                    │
+│    - ⚙️  Jenkins  #   Ci/Cd pipeline                  │
 │    - ☁️  AWS Cloud  # EC2, S3, IAM                               │
 │    - 🐧 Linux & Shell Scripting                                  │
 │    - 🤖 Ansible     # Automation & Config                        │
