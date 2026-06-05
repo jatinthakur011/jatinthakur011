@@ -78,8 +78,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-<img height="175em" src="https://YOUR-APP.vercel.app/api?username=jatinthakur011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=a78bfa&text_color=c9d1d9&border_radius=12" />
-<img height="175em" src="https://YOUR-APP.vercel.app/api/top-langs/?username=jatinthakur011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_radius=12" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=jatinthakur011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=a78bfa&text_color=c9d1d9&border_radius=12&cache_seconds=86400" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinthakur011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_radius=12&cache_seconds=86400" />
 </div>
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=jatinthakur011&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff88&ring=a78bfa&fire=ff6b6b&currStreakLabel=00ff88&sideLabels=00ff88&dates=6b7a99&border_radius=12" />
