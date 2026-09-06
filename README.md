@@ -21,7 +21,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/jatinthakur011)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black&labelColor=0d1117)](https://leetcode.com/u/Jatin_thakur01/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:jatuthakur170@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=flat-square&logo=vercel&logoColor=black&labelColor=0d1117)](https://jatin-thakur-portfolio-source.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=flat-square&logo=vercel&logoColor=black&labelColor=0d1117)](https://jatin-portfolio-six-lovat.vercel.app/)
 
 </div>
 
