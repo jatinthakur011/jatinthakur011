@@ -29,6 +29,10 @@
 
 ## 🧠 About Me
 
+<table>
+<tr>
+<td width="60%">
+
 ```yaml
 ┌─────────────────────────────────────────────────────────────────┐
 │                        jatin.config.yaml                        │
@@ -54,6 +58,15 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
+</td>
+<td width="40%" align="center">
+
+<img alt="coding gif" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNqbXZidXhmb29hdmxkN2M1eWZxenVtOTBoamowcDAzemdrdWRpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif">
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -73,25 +86,6 @@
 ### 🔧 Tools & Workflow
 
 <img alt="Tools and workflow skill icons" src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash&theme=dark&perline=10" />
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!--
-  These two images live in the separate "github-stats" repo (a fork of
-  jstrieb/github-stats). The workflow commits them to a "generated" folder
-  on the master branch, and raw.githubusercontent.com serves the actual
-  image bytes directly (github.com/.../blob/... does not reliably work
-  inside an <img> tag). That fork's workflow regenerates them every 24
-  hours automatically — nothing here depends on a third-party live server.
--->
-<img alt="Jatin's GitHub stats overview" src="https://raw.githubusercontent.com/jatinthakur011/github-stats/master/generated/overview.svg" />
-<img alt="Jatin's most used languages" src="https://raw.githubusercontent.com/jatinthakur011/github-stats/master/generated/languages.svg" />
-
-</div>
 
 ---
 
