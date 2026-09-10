@@ -1,11 +1,11 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0f1e&height=200&section=header&text=Jatin%20Thakur&fontSize=60&fontColor=00ff88&fontAlignY=38&desc=Web%20Developer%20%E2%9A%A1%20DevOps%20Learner&descSize=18&descAlignY=58&descColor=a78bfa&animation=twinkling" />
+<img width="100%" alt="Jatin Thakur banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0f1e&height=200&section=header&text=Jatin%20Thakur&fontSize=60&fontColor=00ff88&fontAlignY=38&desc=Web%20Developer%20%E2%9A%A1%20DevOps%20Learner&descSize=18&descAlignY=58&descColor=a78bfa&animation=twinkling" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=Hey+there%21+I%27m+Jatin+Thakur;Web+Developer+%26+DevOps+Learner;Currently+Learning+Cloud+%26+DevOps;Building+%7C+Deploying+%7C+Improving;Always+open+to+collaborate+%26+learn" />
+<img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=Hey+there%21+I%27m+Jatin+Thakur;Web+Developer+%26+DevOps+Learner;Currently+Learning+Cloud+%26+DevOps;Building+%7C+Deploying+%7C+Improving;Always+open+to+collaborate+%26+learn" />
 
 </div>
 
@@ -34,23 +34,23 @@
 │                        jatin.config.yaml                        │
 ├─────────────────────────────────────────────────────────────────┤
 │  name        : Jatin Thakur                                     │
-│  role        : Web Dev Student  |  DevOps Learner               │
+│  role        : Web Dev Student  |  DevOps Learner                │
 │  location    : 📍 India                                          │
 │  email       : jatuthakur170@gmail.com                          │
 │                                                                 │
-│  currently_learning:                                            │
-│    - ⚙️  Jenkins  #   Ci/Cd pipeline                  │
-│    - ☁️  AWS Cloud  # EC2, S3, IAM                               │
+│  currently_learning:                                             │
+│    - ⚙️  Jenkins    # CI/CD pipeline                              │
+│    - ☁️  AWS Cloud  # EC2, S3, IAM                                │
 │    - 🐧 Linux & Shell Scripting                                  │
 │    - 🤖 Ansible     # Automation & Config                        │
 │                                                                 │
-│  interests:                                                     │
+│  interests:                                                      │
 │    - 🌐 Full Stack Web Development                               │
 │    - ☁️  Cloud Infrastructure & DevOps                           │
 │    - 🧩 Competitive Programming (LeetCode)                       │
 │    - 🤝 Open Source Contribution                                 │
 │                                                                 │
-│  fun_fact: "I debug in production... just kidding. Maybe. 😅"   │
+│  fun_fact: "I debug in production... just kidding. Maybe. 😅"    │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -60,25 +60,33 @@
 
 ### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark&perline=10" />
+<img alt="Frontend skill icons" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark&perline=10" />
 
 ### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,mysql,mongodb,express&theme=dark&perline=10" />
+<img alt="Backend and database skill icons" src="https://skillicons.dev/icons?i=nodejs,python,mysql,mongodb,express&theme=dark&perline=10" />
 
 ### ☁️ DevOps & Cloud *(Actively Learning)*
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,terraform&theme=dark&perline=10" />
+<img alt="DevOps and cloud skill icons" src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,terraform&theme=dark&perline=10" />
 
 ### 🔧 Tools & Workflow
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash&theme=dark&perline=10" />
+<img alt="Tools and workflow skill icons" src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash&theme=dark&perline=10" />
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=jatinthakur011&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff88&ring=a78bfa&fire=ff6b6b&currStreakLabel=00ff88&sideLabels=00ff88&dates=6b7a99&border_radius=12" />
+
+<!--
+  Note: streak-stats.demolab.com is a free, third-party Vercel service that
+  intermittently goes down or rate-limits (a known, widely-reported issue,
+  not specific to this file). If this badge shows broken, it should recover
+  on its own within a few hours. For a permanent fix, self-host your own
+  copy for free: https://github.com/DenverCoder1/github-readme-streak-stats
+-->
+<img alt="Jatin's GitHub streak stats" src="https://streak-stats.demolab.com/?user=jatinthakur011&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff88&ring=a78bfa&fire=ff6b6b&currStreakLabel=00ff88&sideLabels=00ff88&dates=6b7a99&border_radius=12" />
 </div>
 
 ---
@@ -92,11 +100,11 @@
 
 ---
 
-## 🐍 MY Contribution 
+## 🐍 MY Contribution
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jatinthakur011/jatinthakur011/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jatinthakur011/jatinthakur011/output/github-contribution-grid-snake-dark.svg" alt="Jatin's GitHub contribution snake animation" />
 
 </div>
 
@@ -106,7 +114,7 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Jatin_thakur01?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12" />
+<img alt="Jatin's LeetCode stats card" src="https://leetcard.jacoblin.cool/Jatin_thakur01?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12" />
 
 </div>
 
@@ -122,10 +130,10 @@ Every expert was once a beginner. Keep shipping. Keep learning. 🚀
 
 ### 👁️ Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=jatinthakur011&label=Profile+Views&color=00ff88&style=for-the-badge&abbreviated=true" />
+<img alt="Profile views counter" src="https://komarev.com/ghpvc/?username=jatinthakur011&label=Profile+Views&color=00ff88&style=for-the-badge&abbreviated=true" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0a2e,50:0a0a1a,100:0f0a2e&height=120&section=footer&text=Let%27s+Build+Something+Cool&fontSize=20&fontColor=00ff88&fontAlignY=65" />
+<img width="100%" alt="Footer banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0a2e,50:0a0a1a,100:0f0a2e&height=120&section=footer&text=Let%27s+Build+Something+Cool&fontSize=20&fontColor=00ff88&fontAlignY=65" />
 
 </div>
